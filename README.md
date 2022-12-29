@@ -13,10 +13,10 @@ I have created a login page, a sign-up page, and an hours-added page for a web a
 Before you can run the Java classes in this project, you will need to have the Java Development Kit (JDK) installed on your computer. You can download the JDK from the Oracle website (https://www.oracle.com/java/technologies/javase-downloads.html).
 
 ## Compiling the Java source files
-Run the javac command followed by the names of the Java source files. For example
-*javac LogIn.java SignUpForm.java HoursForm.java*
+Run the javac command followed by the names of the Java source files. For example </br>
+### *javac LogIn.java SignUpForm.java HoursForm.java*
 
 ## Running the compiled Java bytecode
 To run the compiled Java bytecode, use the java command followed by the name of the class that contains the main method. For example: <br />
-*java LogIn*
+### *java LogIn*
 
