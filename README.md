@@ -1,4 +1,4 @@
-# PhiMuIProject 
+# Phi Mui SQL Project 
 
 ## Background 
 As a member of a certain organization, you are required to earn a certain number of points and hours each semester. 
