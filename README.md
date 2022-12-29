@@ -17,6 +17,6 @@ Run the javac command followed by the names of the Java source files. For exampl
 *javac LogIn.java SignUpForm.java HoursForm.java*
 
 ## Running the compiled Java bytecode
-To run the compiled Java bytecode, use the java command followed by the name of the class that contains the main method. For example:
+To run the compiled Java bytecode, use the java command followed by the name of the class that contains the main method. For example: <br />
 *java LogIn*
 
