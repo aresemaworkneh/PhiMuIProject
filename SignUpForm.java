@@ -40,7 +40,7 @@ public class SignUpForm extends JFrame {
 
         panel.add(firstNameLabel);
         firstNameField = new JTextField();
-        firstNameField.setPreferredSize(new Dimension(150, 25));
+        firstNameField.setPreferredSize(new Dimension(25, 25));
         panel.add(firstNameField);
 
 
